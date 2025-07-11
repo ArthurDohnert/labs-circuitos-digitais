@@ -1,0 +1,30 @@
+# do DECOD416.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DECOD416
+# 
+# Top level modules:
+# 	DECOD416
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DECOD416_vlg_sample_tst
+# -- Compiling module DECOD416_vlg_check_tst
+# -- Compiling module DECOD416_vlg_vec_tst
+# 
+# Top level modules:
+# 	DECOD416_vlg_vec_tst
+# vsim -L cycloneiv_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.DECOD416_vlg_vec_tst 
+# Loading work.DECOD416_vlg_vec_tst
+# Loading work.DECOD416
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading work.DECOD416_vlg_sample_tst
+# Loading work.DECOD416_vlg_check_tst
+# Loading instances from DECOD416_v.sdo
+# Loading timing data from DECOD416_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /DECOD416_vlg_vec_tst File: DECOD416.vt
+# Simulation passed !
+# ** Note: $finish    : DECOD416.vt(417)
+#    Time: 1 us  Iteration: 0  Instance: /DECOD416_vlg_vec_tst/tb_out

@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/arthu/OneDrive/Área de Trabalho/CircuitosDigitais/lab00/FA/FA.bdf
+source_file = 1, C:/Users/arthu/OneDrive/Área de Trabalho/CircuitosDigitais/lab00/FA/Waveform.vwf
+source_file = 1, C:/Users/arthu/OneDrive/Área de Trabalho/CircuitosDigitais/lab00/FA/db/FA.cbx.xml
+design_name = FA
+instance = comp, \S~output , S~output, FA, 1
+instance = comp, \Cout~output , Cout~output, FA, 1
+instance = comp, \A~input , A~input, FA, 1
+instance = comp, \B~input , B~input, FA, 1
+instance = comp, \Cin~input , Cin~input, FA, 1
+instance = comp, \XOR2~0 , XOR2~0, FA, 1
+instance = comp, \OR1~0 , OR1~0, FA, 1

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\lab05\simulation\qsim
+vULA
+Z1 !s100 ^>d450QjnfN=o??DLE_Bm2
+Z2 Iia;E8P>Xce_5l6Sf:m?V13
+Z3 V;BcaAMKVc=Faf>RQ75Kz11
+Z4 dC:\CircuitosDigitais\lab05\lab05\simulation\qsim
+Z5 w1745959862
+Z6 8ULA.vo
+Z7 FULA.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ULA.vo|
+Z10 o-work work -O0
+Z11 n@u@l@a
+!i10b 1
+!s85 0
+Z12 !s108 1748990083.541000
+Z13 !s107 ULA.vo|
+!s101 -O0
+vULA_vlg_check_tst
+!i10b 1
+Z14 !s100 JkKf[[:W[GXnhWKKWD1D;3
+Z15 I5E3UgVazCjZXLG9k?ic_i3
+Z16 Ven4VWY:2j^l9z[]7[1MdD0
+R4
+Z17 w1748990081
+Z18 8ULA.vt
+Z19 FULA.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1748990083.595000
+Z21 !s107 ULA.vt|
+Z22 !s90 -work|work|ULA.vt|
+!s101 -O0
+R10
+Z23 n@u@l@a_vlg_check_tst
+vULA_vlg_sample_tst
+!i10b 1
+Z24 !s100 NF`[c^LQele7d>Bm1KW4:2
+Z25 I;n7LO3j7FKNIfTZl6P;W83
+Z26 VHbd2O80VI;^O3DQOQYed[0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@u@l@a_vlg_sample_tst
+vULA_vlg_vec_tst
+!i10b 1
+Z28 !s100 5TdgB64TVO=I2Mg7_5:Ic0
+Z29 Ii?Z:[ekUCeYo6fYXXTo=G0
+Z30 V@H?nKIIOPXSf=Pjh4d^VA0
+R4
+R17
+R18
+R19
+Z31 L0 263
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@u@l@a_vlg_vec_tst

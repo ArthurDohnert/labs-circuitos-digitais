@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CircuitosDigitais\lab02\RCA4\simulation\qsim
+vRCA4
+Z1 IZEXN8>;[8N5b59bW4eF1[0
+Z2 V>icZd:NO`jiUKEG?oXNAB2
+Z3 dC:\CircuitosDigitais\lab02\RCA4\simulation\qsim
+Z4 w1743799653
+Z5 8RCA4.vo
+Z6 FRCA4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@r@c@a4
+!i10b 1
+Z10 !s100 TfleQS[G259UhEhYiZQO@0
+!s85 0
+Z11 !s108 1743799656.230000
+Z12 !s107 RCA4.vo|
+Z13 !s90 -work|work|RCA4.vo|
+!s101 -O0
+vRCA4_vlg_check_tst
+!i10b 1
+!s100 V:aHmIV52Ej>dFI4j`le>1
+IVA7YFkz`M:c4PaY0LE::H3
+VeNjeP15G4d_0R7V=DKIdJ1
+R3
+Z14 w1743799652
+Z15 8RCA4.vt
+Z16 FRCA4.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1743799656.312000
+Z18 !s107 RCA4.vt|
+Z19 !s90 -work|work|RCA4.vt|
+!s101 -O0
+R8
+n@r@c@a4_vlg_check_tst
+vRCA4_vlg_sample_tst
+!i10b 1
+!s100 @n548N1GN`4lSle6:gV]?2
+IK>zX0U2H6oQ:TnLI<YA>S0
+VjW`UEAXQm10b;PWfNz^j[1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@r@c@a4_vlg_sample_tst
+vRCA4_vlg_vec_tst
+!i10b 1
+!s100 K?Y^MUncBi^6lgkoFk`CD1
+IIT?_AKTZRHlYmQ[WDO8RO2
+V1hFZd8=94<i^RSjR2:A<03
+R3
+R14
+R15
+R16
+L0 236
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@r@c@a4_vlg_vec_tst

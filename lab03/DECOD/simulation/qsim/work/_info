@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\inf01058\inf01058\lab03\DECOD\simulation\qsim
+vDECOD416
+Z1 !s100 [RTmT1_o^7o=Ydn0>=`h>1
+Z2 I9CjB9Ejl<C1QP?>1Wda6Y0
+Z3 V9OSLii;j5zzJMgHn]0co;0
+Z4 dC:\CircuitosDigitais\lab03\lab03\DECOD\simulation\qsim
+Z5 w1744336819
+Z6 8DECOD416.vo
+Z7 FDECOD416.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|DECOD416.vo|
+Z10 o-work work -O0
+Z11 n@d@e@c@o@d416
+!i10b 1
+!s85 0
+Z12 !s108 1744899292.083000
+Z13 !s107 DECOD416.vo|
+!s101 -O0
+vDECOD416_vlg_check_tst
+!i10b 1
+Z14 !s100 2kgMYH>7UYiJKlR5R@1W22
+Z15 IO8H^BP3`ch@8SMG1a4^h_0
+Z16 VJYGh^e<34DZ=X`J1kjFdM1
+R4
+Z17 w1744899289
+Z18 8DECOD416.vt
+Z19 FDECOD416.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1744899292.170000
+Z21 !s107 DECOD416.vt|
+Z22 !s90 -work|work|DECOD416.vt|
+!s101 -O0
+R10
+Z23 n@d@e@c@o@d416_vlg_check_tst
+vDECOD416_vlg_sample_tst
+!i10b 1
+Z24 !s100 5c9KB2`jkNJ9O^C]lZdcP3
+Z25 Ie0TT0=^YD1nO^[K?V[a7N1
+Z26 VX]MhGOSI:4Ga@=_]T]LRQ2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@d@e@c@o@d416_vlg_sample_tst
+vDECOD416_vlg_vec_tst
+!i10b 1
+Z28 !s100 m73`2AN^YPA5>PiG@j;5^0
+Z29 I92?`olh`^zhNefP`g:XAN3
+Z30 VC6I0z<Y;B[O7f;1Kd6fCo0
+R4
+R17
+R18
+R19
+Z31 L0 421
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@d@e@c@o@d416_vlg_vec_tst

@@ -1,0 +1,381 @@
+$comment
+	File created using the following command:
+		vcd file RCA8.msim.vcd -direction
+$end
+$date
+	Fri Apr 04 18:04:18 2025
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module RCA8_vlg_vec_tst $end
+$var reg 8 ! A0 [7:0] $end
+$var reg 8 " B0 [7:0] $end
+$var reg 1 # Cin $end
+$var wire 1 $ Cout $end
+$var wire 1 % S0 [7] $end
+$var wire 1 & S0 [6] $end
+$var wire 1 ' S0 [5] $end
+$var wire 1 ( S0 [4] $end
+$var wire 1 ) S0 [3] $end
+$var wire 1 * S0 [2] $end
+$var wire 1 + S0 [1] $end
+$var wire 1 , S0 [0] $end
+$var wire 1 - sampler $end
+$scope module i1 $end
+$var wire 1 . gnd $end
+$var wire 1 / vcc $end
+$var wire 1 0 unknown $end
+$var tri1 1 1 devclrn $end
+$var tri1 1 2 devpor $end
+$var tri1 1 3 devoe $end
+$var wire 1 4 Cout~output_o $end
+$var wire 1 5 S0[7]~output_o $end
+$var wire 1 6 S0[6]~output_o $end
+$var wire 1 7 S0[5]~output_o $end
+$var wire 1 8 S0[4]~output_o $end
+$var wire 1 9 S0[3]~output_o $end
+$var wire 1 : S0[2]~output_o $end
+$var wire 1 ; S0[1]~output_o $end
+$var wire 1 < S0[0]~output_o $end
+$var wire 1 = B0[7]~input_o $end
+$var wire 1 > B0[6]~input_o $end
+$var wire 1 ? A0[5]~input_o $end
+$var wire 1 @ B0[4]~input_o $end
+$var wire 1 A A0[4]~input_o $end
+$var wire 1 B inst1|inst|OR1~0_combout $end
+$var wire 1 C B0[5]~input_o $end
+$var wire 1 D inst1|inst1|OR1~0_combout $end
+$var wire 1 E inst1|inst2|OR1~1_combout $end
+$var wire 1 F A0[7]~input_o $end
+$var wire 1 G inst1|inst2|OR1~0_combout $end
+$var wire 1 H inst1|inst3|OR1~0_combout $end
+$var wire 1 I inst1|inst3|XOR2~combout $end
+$var wire 1 J A0[6]~input_o $end
+$var wire 1 K inst1|inst2|XOR2~0_combout $end
+$var wire 1 L inst1|inst|OR1~1_combout $end
+$var wire 1 M inst1|inst1|XOR2~combout $end
+$var wire 1 N B0[2]~input_o $end
+$var wire 1 O A0[1]~input_o $end
+$var wire 1 P A0[0]~input_o $end
+$var wire 1 Q B0[0]~input_o $end
+$var wire 1 R inst|inst|OR1~0_combout $end
+$var wire 1 S B0[1]~input_o $end
+$var wire 1 T inst|inst1|OR1~0_combout $end
+$var wire 1 U inst|inst2|OR1~1_combout $end
+$var wire 1 V B0[3]~input_o $end
+$var wire 1 W A0[2]~input_o $end
+$var wire 1 X inst|inst2|OR1~0_combout $end
+$var wire 1 Y inst|inst3|OR1~0_combout $end
+$var wire 1 Z inst1|inst|XOR2~0_combout $end
+$var wire 1 [ A0[3]~input_o $end
+$var wire 1 \ inst|inst3|XOR2~combout $end
+$var wire 1 ] inst|inst2|XOR2~0_combout $end
+$var wire 1 ^ Cin~input_o $end
+$var wire 1 _ inst|inst|OR1~1_combout $end
+$var wire 1 ` inst|inst1|XOR2~combout $end
+$var wire 1 a inst|inst|XOR2~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b110011 !
+b0 "
+0#
+0$
+1,
+1+
+0*
+0)
+1(
+1'
+0&
+0%
+x-
+0.
+1/
+x0
+11
+12
+13
+04
+05
+06
+17
+18
+09
+0:
+1;
+1<
+0=
+0>
+1?
+0@
+1A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+1M
+0N
+1O
+1P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+1Z
+0[
+0\
+0]
+0^
+0_
+1`
+1a
+$end
+#70000
+b10011 !
+b11011 !
+b11001 !
+b11000 !
+b10000 "
+b11000 "
+1V
+1@
+0P
+0O
+1[
+0?
+0-
+1Y
+1B
+0Z
+0a
+0`
+0M
+1L
+08
+0<
+0;
+07
+0(
+0,
+0+
+0'
+1Z
+1M
+18
+17
+1(
+1'
+#140000
+b10011000 !
+b11011000 !
+b11011100 !
+b11001 "
+b11111100 !
+b11111110 !
+b11111111 !
+b1001 "
+b1 "
+1Q
+0V
+0@
+1P
+1O
+1W
+1?
+1J
+1F
+1-
+1R
+0Y
+0B
+1D
+1\
+0Z
+1`
+1]
+0M
+1K
+1I
+1T
+0L
+1E
+19
+08
+1;
+1:
+07
+16
+15
+1)
+0(
+1+
+1*
+0'
+1&
+1%
+0`
+1Z
+0K
+1U
+0D
+0;
+18
+06
+0+
+1(
+0&
+0]
+1M
+0I
+1H
+1Y
+0E
+0:
+17
+05
+14
+0*
+1'
+0%
+1$
+0\
+1K
+1L
+09
+16
+0)
+1&
+0Z
+1I
+0H
+1D
+08
+15
+04
+0(
+1%
+0$
+0M
+1E
+07
+0'
+0K
+06
+0&
+0I
+1H
+05
+14
+0%
+1$
+#210000
+b11101111 !
+b10000001 "
+b11000001 "
+b11000011 "
+b11100111 !
+b10100111 !
+b10100011 !
+b11000010 "
+b10100001 !
+0Q
+1S
+1>
+1=
+0O
+0W
+0[
+0A
+0J
+0-
+0R
+0U
+0Y
+0L
+1a
+1I
+1]
+1\
+1Z
+0T
+0D
+1<
+15
+1:
+19
+18
+1,
+1%
+1*
+1)
+1(
+1`
+0\
+0Z
+1M
+0E
+1;
+09
+08
+17
+1+
+0)
+0(
+1'
+0]
+1K
+0:
+16
+0*
+1&
+0I
+05
+0%
+#280000
+b100001 !
+b1 !
+b0 !
+b1000010 "
+b10 "
+b0 "
+0S
+0>
+0=
+0P
+0?
+0F
+1-
+0`
+0K
+0H
+0a
+0M
+0;
+06
+04
+0<
+07
+0+
+0&
+0$
+0,
+0'

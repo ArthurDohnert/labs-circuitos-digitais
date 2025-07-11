@@ -1,0 +1,5 @@
+Consumo de área -
+Pins: 3
+Logic Elements: 4
+
+Atraso crítico: 4.127

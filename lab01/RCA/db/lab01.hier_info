@@ -1,0 +1,58 @@
+|lab01
+Cout <= FAFINAL:inst20.Cout
+A[0] => HAFINAL:inst.A
+A[1] => FAFINAL:inst18.A
+A[2] => FAFINAL:inst19.A
+A[3] => FAFINAL:inst20.A
+B[0] => HAFINAL:inst.B
+B[1] => FAFINAL:inst18.B
+B[2] => FAFINAL:inst19.B
+B[3] => FAFINAL:inst20.B
+S[0] <= HAFINAL:inst.S
+S[1] <= FAFINAL:inst18.S
+S[2] <= FAFINAL:inst19.S
+S[3] <= FAFINAL:inst20.S
+
+
+|lab01|FAFINAL:inst20
+S <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cin => inst1.IN1
+Cin => inst3.IN1
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab01|FAFINAL:inst19
+S <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cin => inst1.IN1
+Cin => inst3.IN1
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab01|FAFINAL:inst18
+S <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cin => inst1.IN1
+Cin => inst3.IN1
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab01|HAFINAL:inst
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

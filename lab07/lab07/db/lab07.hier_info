@@ -1,0 +1,9 @@
+|lab07
+S298 <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+Rst => inst28.ACLR
+Rst => inst27.ACLR
+Rst => inst26.ACLR
+Rst => inst25.ACLR
+clk => inst25.CLK
+
+

@@ -1,0 +1,61 @@
+|RCA4
+Cout <= FA:inst3.Cout
+A[0] => FA:inst.A
+A[1] => FA:inst1.A
+A[2] => FA:inst2.A
+A[3] => FA:inst3.A
+B[0] => FA:inst.B
+B[1] => FA:inst1.B
+B[2] => FA:inst2.B
+B[3] => FA:inst3.B
+Cin => FA:inst.Cin
+S[0] <= FA:inst.S
+S[1] <= FA:inst1.S
+S[2] <= FA:inst2.S
+S[3] <= FA:inst3.S
+
+
+|RCA4|FA:inst3
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA4|FA:inst2
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA4|FA:inst1
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA4|FA:inst
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,511 @@
+|UnidadeAritmetica
+S[0] <= MUX:inst5.Z[0]
+S[1] <= MUX:inst5.Z[1]
+S[2] <= MUX:inst5.Z[2]
+S[3] <= MUX:inst5.Z[3]
+S[4] <= MUX:inst5.Z[4]
+S[5] <= MUX:inst5.Z[5]
+S[6] <= MUX:inst5.Z[6]
+S[7] <= MUX:inst5.Z[7]
+op_sel[0] => MUX4b8b:inst7.S0
+op_sel[1] => MUX:inst5.S0
+A[0] => RCA4:inst.A[0]
+A[0] => CLA:inst8.A[0]
+A[0] => MULT:inst3.A[0]
+A[1] => RCA4:inst.A[1]
+A[1] => CLA:inst8.A[1]
+A[1] => MULT:inst3.A[1]
+A[2] => RCA4:inst.A[2]
+A[2] => CLA:inst8.A[2]
+A[2] => MULT:inst3.A[2]
+A[3] => RCA4:inst.A[3]
+A[3] => CLA:inst8.A[3]
+A[3] => MULT:inst3.A[3]
+B[0] => RCA4:inst.B[0]
+B[0] => CLA:inst8.B[0]
+B[0] => MULT:inst3.B[0]
+B[1] => RCA4:inst.B[1]
+B[1] => CLA:inst8.B[1]
+B[1] => MULT:inst3.B[1]
+B[2] => RCA4:inst.B[2]
+B[2] => CLA:inst8.B[2]
+B[2] => MULT:inst3.B[2]
+B[3] => RCA4:inst.B[3]
+B[3] => CLA:inst8.B[3]
+B[3] => MULT:inst3.B[3]
+
+
+|UnidadeAritmetica|MUX:inst5
+Z[0] <= Block2:inst.Z0
+Z[1] <= Block2:inst4.Z0
+Z[2] <= Block2:inst5.Z0
+Z[3] <= Block2:inst6.Z0
+Z[4] <= Block2:inst7.Z0
+Z[5] <= Block2:inst8.Z0
+Z[6] <= Block2:inst9.Z0
+Z[7] <= Block2:inst10.Z0
+A[0] => Block2:inst.A0
+A[1] => Block2:inst4.A0
+A[2] => Block2:inst5.A0
+A[3] => Block2:inst6.A0
+A[4] => Block2:inst7.A0
+A[5] => Block2:inst8.A0
+A[6] => Block2:inst9.A0
+A[7] => Block2:inst10.A0
+B[0] => Block2:inst.B0
+B[1] => Block2:inst4.B0
+B[2] => Block2:inst5.B0
+B[3] => Block2:inst6.B0
+B[4] => Block2:inst7.B0
+B[5] => Block2:inst8.B0
+B[6] => Block2:inst9.B0
+B[7] => Block2:inst10.B0
+S0 => Block2:inst.S0
+S0 => Block2:inst4.S0
+S0 => Block2:inst8.S0
+S0 => Block2:inst5.S0
+S0 => Block2:inst7.S0
+S0 => Block2:inst9.S0
+S0 => Block2:inst6.S0
+S0 => Block2:inst10.S0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst4
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst8
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst5
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst7
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst9
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst6
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX:inst5|Block2:inst10
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX4b8b:inst7
+Z[0] <= Block2:inst.Z0
+Z[1] <= Block2:inst4.Z0
+Z[2] <= Block2:inst5.Z0
+Z[3] <= Block2:inst6.Z0
+Z[4] <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Z[5] <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+Z[6] <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+Z[7] <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+A[0] => Block2:inst.A0
+A[1] => Block2:inst4.A0
+A[2] => Block2:inst5.A0
+A[3] => Block2:inst6.A0
+B[0] => Block2:inst.B0
+B[1] => Block2:inst4.B0
+B[2] => Block2:inst5.B0
+B[3] => Block2:inst6.B0
+S0 => Block2:inst.S0
+S0 => Block2:inst4.S0
+S0 => Block2:inst5.S0
+S0 => Block2:inst6.S0
+S0 => inst10.IN0
+S0 => inst11.IN0
+S0 => inst8.IN0
+S0 => inst9.IN0
+S0 => inst3.IN0
+S0 => inst7.IN0
+S0 => inst1.IN0
+S0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX4b8b:inst7|Block2:inst
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX4b8b:inst7|Block2:inst4
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX4b8b:inst7|Block2:inst5
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|MUX4b8b:inst7|Block2:inst6
+Z0 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+B0 => inst1.IN0
+S0 => inst1.IN1
+S0 => inst.IN0
+A0 => inst2.IN0
+
+
+|UnidadeAritmetica|RCA4:inst
+Cout <= FA:inst3.Cout
+A[0] => HA:inst.A
+A[1] => FA:inst1.A
+A[2] => FA:inst2.A
+A[3] => FA:inst3.A
+B[0] => HA:inst.B
+B[1] => FA:inst1.B
+B[2] => FA:inst2.B
+B[3] => FA:inst3.B
+S[0] <= HA:inst.S
+S[1] <= FA:inst1.S
+S[2] <= FA:inst2.S
+S[3] <= FA:inst3.S
+
+
+|UnidadeAritmetica|RCA4:inst|FA:inst3
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|RCA4:inst|FA:inst2
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|RCA4:inst|FA:inst1
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|RCA4:inst|HA:inst
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|CLA:inst8
+C4 <= C3.DB_MAX_OUTPUT_PORT_TYPE
+A[0] => inst3.IN0
+A[0] => HA:inst1.A
+A[1] => inst5.IN0
+A[1] => inst6.IN0
+A[1] => FA:inst4.A
+A[2] => inst7.IN0
+A[2] => inst8.IN0
+A[2] => FA:inst9.A
+A[3] => inst10.IN0
+A[3] => inst11.IN0
+A[3] => FA:inst12.A
+B[0] => inst3.IN1
+B[0] => HA:inst1.B
+B[1] => inst5.IN1
+B[1] => inst6.IN1
+B[1] => FA:inst4.B
+B[2] => inst7.IN1
+B[2] => inst8.IN1
+B[2] => FA:inst9.B
+B[3] => inst10.IN1
+B[3] => inst11.IN1
+B[3] => FA:inst12.B
+S[0] <= HA:inst1.S
+S[1] <= FA:inst4.S
+S[2] <= FA:inst9.S
+S[3] <= FA:inst12.S
+
+
+|UnidadeAritmetica|CLA:inst8|4-bitCarryLookahead:inst
+C0 <= g0.DB_MAX_OUTPUT_PORT_TYPE
+g0 => C0.DATAIN
+g0 => inst.IN0
+C1 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+g1 => inst5.IN0
+p1 => inst.IN1
+C2 <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+g2 => inst7.IN0
+p2 => inst6.IN1
+C3 <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+g3 => inst9.IN0
+p3 => inst8.IN1
+
+
+|UnidadeAritmetica|CLA:inst8|HA:inst1
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|CLA:inst8|FA:inst4
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|CLA:inst8|FA:inst9
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|CLA:inst8|FA:inst12
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3
+C[0] <= inst.DB_MAX_OUTPUT_PORT_TYPE
+C[1] <= HA:inst9.S
+C[2] <= HA:inst10.S
+C[3] <= HA:inst11.S
+C[4] <= FA:inst28.S
+C[5] <= FA:inst29.S
+C[6] <= FA:inst34.S
+C[7] <= FA:inst34.Cout
+B[0] => inst.IN0
+B[0] => inst18.IN0
+B[0] => inst2.IN0
+B[0] => inst19.IN0
+B[1] => inst16.IN0
+B[1] => inst15.IN0
+B[1] => inst17.IN0
+B[1] => inst20.IN0
+B[2] => inst23.IN0
+B[2] => inst24.IN0
+B[2] => inst26.IN0
+B[2] => inst25.IN0
+B[3] => inst30.IN0
+B[3] => inst33.IN0
+B[3] => inst32.IN0
+B[3] => inst31.IN0
+A[0] => inst.IN1
+A[0] => inst23.IN1
+A[0] => inst15.IN1
+A[0] => inst30.IN1
+A[1] => inst16.IN1
+A[1] => inst2.IN1
+A[1] => inst24.IN1
+A[1] => inst31.IN1
+A[2] => inst18.IN1
+A[2] => inst17.IN1
+A[2] => inst32.IN1
+A[2] => inst25.IN1
+A[3] => inst19.IN1
+A[3] => inst33.IN1
+A[3] => inst26.IN1
+A[3] => inst20.IN1
+
+
+|UnidadeAritmetica|MULT:inst3|HA:inst10
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst12
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|HA:inst9
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|HA:inst11
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst14
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst13
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst34
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst29
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst27
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst22
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|HA:inst21
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+A => inst2.IN0
+A => inst.IN0
+B => inst2.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|UnidadeAritmetica|MULT:inst3|FA:inst28
+S <= XOR2.DB_MAX_OUTPUT_PORT_TYPE
+A => XOR1.IN0
+A => AND1.IN0
+B => XOR1.IN1
+B => AND1.IN1
+Cin => XOR2.IN1
+Cin => AND2.IN0
+Cout <= OR1.DB_MAX_OUTPUT_PORT_TYPE
+
+

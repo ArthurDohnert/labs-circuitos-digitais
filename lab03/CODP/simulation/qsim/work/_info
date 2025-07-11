@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\inf01058\inf01058\lab03\CODP\simulation\qsim
+vCodificadordePrioridade
+Z1 !s100 Iaj3X0m7E:_mN[7a5hPO=1
+Z2 IS]g]DP`IP1;a;JN1DM^=P2
+Z3 VoBWaZ^0:kVCm_DMi40RM93
+Z4 dC:\CircuitosDigitais\lab03\lab03\CODP\simulation\qsim
+Z5 w1744336817
+Z6 8CodificadordePrioridade.vo
+Z7 FCodificadordePrioridade.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|CodificadordePrioridade.vo|
+Z10 o-work work -O0
+Z11 n@codificadorde@prioridade
+!i10b 1
+!s85 0
+Z12 !s108 1744899293.097000
+Z13 !s107 CodificadordePrioridade.vo|
+!s101 -O0
+vCodificadordePrioridade_vlg_check_tst
+!i10b 1
+Z14 !s100 k6^TOg5H11a^oiSCfiFl<3
+Z15 IoJ?AgnFfiJ98Eb3XlDb[c0
+Z16 V>?l3Z6KN5R6;]R8DP<c8k2
+R4
+Z17 w1744899291
+Z18 8CodificadordePrioridade.vt
+Z19 FCodificadordePrioridade.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1744899293.175000
+Z21 !s107 CodificadordePrioridade.vt|
+Z22 !s90 -work|work|CodificadordePrioridade.vt|
+!s101 -O0
+R10
+Z23 n@codificadorde@prioridade_vlg_check_tst
+vCodificadordePrioridade_vlg_sample_tst
+!i10b 1
+Z24 !s100 l:lXNXl]8FaN8fl:Q9e@g3
+Z25 IQYEGlAUGMA6ZfalKNQGOh1
+Z26 VDNCVMzL:_;z[zdQ;_zgJZ1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@codificadorde@prioridade_vlg_sample_tst
+vCodificadordePrioridade_vlg_vec_tst
+!i10b 1
+Z28 !s100 f1FH>DaU`>FY67CezGBDU1
+Z29 I`RK1=O93aBh61PzH>KnVz2
+Z30 V[nlg7;^z4nB[C_A^4MPGk2
+R4
+R17
+R18
+R19
+Z31 L0 214
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@codificadorde@prioridade_vlg_vec_tst

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\FPGA\LAB11\FSM_elevador\simulation\qsim
+vFSM_elevador
+Z1 !s100 =[`EVGgF_H]JBnhJba=eh0
+Z2 I6EBM5miIn@@Fh?OA8J7X]0
+Z3 VB3j9bz0LA?Gmm3H`Y>ElG3
+Z4 dC:\Users\aluno\Desktop\LAB11\LAB11\FSM_elevador\simulation\qsim
+Z5 w1752171865
+Z6 8FSM_elevador.vo
+Z7 FFSM_elevador.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|FSM_elevador.vo|
+Z10 o-work work -O0
+Z11 n@f@s@m_elevador
+!i10b 1
+!s85 0
+Z12 !s108 1752171867.017000
+Z13 !s107 FSM_elevador.vo|
+!s101 -O0
+vFSM_elevador_vlg_check_tst
+!i10b 1
+Z14 !s100 8fW[dh]Ij?<P>F`52Ri9U3
+Z15 ILANcXeS^LEIc95km6FXYk2
+Z16 VbN3dQ48czh`^A^Fch8M@:3
+R4
+Z17 w1752171863
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1752171867.111000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 n@f@s@m_elevador_vlg_check_tst
+vFSM_elevador_vlg_sample_tst
+!i10b 1
+Z24 !s100 ^NM<82_7mOI>]X4VJIg6D3
+Z25 IBC8o15U0oHJ^]KL57D`Ja3
+Z26 VhHaX8gZVU>O96oM:?dCcV0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@f@s@m_elevador_vlg_sample_tst
+vFSM_elevador_vlg_vec_tst
+!i10b 1
+Z28 !s100 :;Y?b7jki>bKDKC850?PA0
+Z29 IjUiJ00S[IhTU_FL9QGD1U2
+Z30 V42IAf_S252gAVndbo[di32
+R4
+R17
+R18
+R19
+Z31 L0 415
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@f@s@m_elevador_vlg_vec_tst

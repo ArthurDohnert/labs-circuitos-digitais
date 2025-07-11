@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\inf01058\inf01058\lab03\MUX\simulation\qsim
+vMUX
+Z1 !s100 @ZW6_mIIL1lc6MVjgDznJ0
+Z2 IdOnc?Y02L8g551<SCVTZO3
+Z3 V5?=7cnf=dbbo>5FJ8<Y^n0
+Z4 dC:\CircuitosDigitais\lab03\lab03\MUX\simulation\qsim
+Z5 w1744336820
+Z6 8MUX.vo
+Z7 FMUX.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|MUX.vo|
+Z10 o-work work -O0
+Z11 n@m@u@x
+!i10b 1
+!s85 0
+Z12 !s108 1744899333.167000
+Z13 !s107 MUX.vo|
+!s101 -O0
+vMUX_vlg_check_tst
+!i10b 1
+Z14 !s100 lSbVdb8zDbFX6OC;QX@m13
+Z15 IZRgSFb9^EzXfHNf2UW:=N0
+Z16 VT]gC[0>j_5@NYl;zMZale0
+R4
+Z17 w1744899331
+Z18 8MUX.vt
+Z19 FMUX.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1744899333.278000
+Z21 !s107 MUX.vt|
+Z22 !s90 -work|work|MUX.vt|
+!s101 -O0
+R10
+Z23 n@m@u@x_vlg_check_tst
+vMUX_vlg_sample_tst
+!i10b 1
+Z24 !s100 H15^DT6:MhGG_V:CEQPZd3
+Z25 IgD18TWK=P7Hm;l?6P5U`l1
+Z26 VoLK]^@oIeiE5`PFz7l>oT3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@m@u@x_vlg_sample_tst
+vMUX_vlg_vec_tst
+!i10b 1
+Z28 !s100 fJh]WS7e?Iz_?TOGImgV:1
+Z29 IKh7z<al_JdMeSaV6YB>Y30
+Z30 V1_V4Ug?Wbh2VRD9DP_l0f3
+R4
+R17
+R18
+R19
+Z31 L0 281
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@m@u@x_vlg_vec_tst

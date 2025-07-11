@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CircuitosDigitais\lab02\RCA16\simulation\qsim
+vRCA16
+Z1 !s100 1kU]dCmDco;HbE?b^6S_I2
+Z2 Imc^[5[fB7WCKbn57MgFV:0
+Z3 VRMEgQ@X=g^F_aQG=;97QC1
+Z4 dC:\CircuitosDigitais\lab02\RCA16\simulation\qsim
+Z5 w1743801728
+Z6 8RCA16.vo
+Z7 FRCA16.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|RCA16.vo|
+Z10 o-work work -O0
+Z11 n@r@c@a16
+!i10b 1
+!s85 0
+Z12 !s108 1743801728.852000
+Z13 !s107 RCA16.vo|
+!s101 -O0
+vRCA16_vlg_check_tst
+!i10b 1
+Z14 !s100 Ro5DzB[WL58CWM?nMzCKn1
+Z15 Ie3>`A9VIYIW2ECz3YB;0e0
+Z16 VJ1[22KUEZ^M5^]Ra9;<]=1
+R4
+Z17 w1743801727
+Z18 8RCA16.vt
+Z19 FRCA16.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1743801728.931000
+Z21 !s107 RCA16.vt|
+Z22 !s90 -work|work|RCA16.vt|
+!s101 -O0
+R10
+Z23 n@r@c@a16_vlg_check_tst
+vRCA16_vlg_sample_tst
+!i10b 1
+Z24 !s100 P9O]KNgjLDSjQbPUVAC^d2
+Z25 I436YJ^hD4zzXii7mS5m5E3
+Z26 V]R]NC[_YmSFcOiQN7mUc92
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@r@c@a16_vlg_sample_tst
+vRCA16_vlg_vec_tst
+!i10b 1
+Z28 !s100 Z6ghFb5?JeodHfE2coXa33
+Z29 IT56HUQF890P[@VSSi?jNf2
+Z30 VHl6W@FhfZHikgIOIZgd833
+R4
+R17
+R18
+R19
+Z31 L0 452
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@r@c@a16_vlg_vec_tst

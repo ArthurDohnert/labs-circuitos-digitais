@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\lab07\simulation\qsim
+vlab07
+Z1 !s100 X>iM=`VLPX9?mGmWJV5Lf3
+Z2 IlVTZRkhL9>T?9737Fml3N1
+Z3 V`b[3FJ]TKgoNePWU0;az;1
+Z4 dC:\Users\aluno\Desktop\lab07\simulation\qsim
+Z5 w1748528286
+Z6 8lab07.vo
+Z7 Flab07.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab07.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1748528287.442000
+Z12 !s107 lab07.vo|
+!s101 -O0
+vlab07_vlg_check_tst
+!i10b 1
+Z13 !s100 iH7L;B8XJh89GN2e4DWHS0
+Z14 I8VFgndeSfdCkKaDkFO8RN0
+Z15 VVYMgQI@T:C^Ih`nzB^djU3
+R4
+Z16 w1748528284
+Z17 8teste.vwf.vt
+Z18 Fteste.vwf.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1748528287.567000
+Z20 !s107 teste.vwf.vt|
+Z21 !s90 -work|work|teste.vwf.vt|
+!s101 -O0
+R10
+vlab07_vlg_sample_tst
+!i10b 1
+Z22 !s100 e^Ocig0?Ccf:oC8BJRTA00
+Z23 In=]R1:OLdXj>E6SKL`WJe1
+Z24 V9U1aD[@Ca>lLNR]F_SB5=0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vlab07_vlg_vec_tst
+!i10b 1
+Z25 !s100 ?34koEBk=cLMa:8XL6D>h1
+Z26 Id2jJkZi29SMm]j:O1?cZA1
+Z27 VCofn8jaG[>mHe`F;E4;dL2
+R4
+R16
+R17
+R18
+Z28 L0 154
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

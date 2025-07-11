@@ -1,0 +1,941 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst64'
+Slack : -0.842
+TNS   : -2.947
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst31'
+Slack : -0.042
+TNS   : -0.042
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst61'
+Slack : -0.035
+TNS   : -0.035
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst25'
+Slack : -0.010
+TNS   : -0.010
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst33'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst40'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst54'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst59'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst52'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst45'
+Slack : 0.012
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst48'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst27'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst47'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst38'
+Slack : 0.076
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'clk_in'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst41'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst53'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst55'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst60'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst26'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst62'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst34'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst32'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst28'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst39'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisorfrequencia:inst1|inst46'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_in'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst27'
+Slack : -0.002
+TNS   : -0.002
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst46'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst62'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst28'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst39'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst34'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst32'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst26'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst53'
+Slack : 0.031
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst55'
+Slack : 0.031
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst60'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst41'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst48'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst38'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst47'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst45'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst59'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst52'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst33'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst40'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst54'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst25'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst31'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst61'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divisorfrequencia:inst1|inst64'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_in'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst64'
+Slack : -1.000
+TNS   : -5.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst25'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst26'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst27'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst28'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst31'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst32'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst33'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst34'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst38'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst39'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst40'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst41'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst45'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst46'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst47'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst48'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst52'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst53'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst54'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst55'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst59'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst60'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst61'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst62'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst64'
+Slack : -0.649
+TNS   : -2.228
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst31'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst61'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst25'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst54'
+Slack : 0.063
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst33'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst40'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst59'
+Slack : 0.069
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst52'
+Slack : 0.070
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst45'
+Slack : 0.079
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst48'
+Slack : 0.091
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst47'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst27'
+Slack : 0.107
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst38'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk_in'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst41'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst53'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst55'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst60'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst62'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst26'
+Slack : 0.209
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst34'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst32'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst46'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst28'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst39'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_in'
+Slack : -0.047
+TNS   : -0.047
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst27'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst46'
+Slack : -0.008
+TNS   : -0.008
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst62'
+Slack : -0.008
+TNS   : -0.008
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst28'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst34'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst39'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst32'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst48'
+Slack : 0.012
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst26'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst53'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst55'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst60'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst41'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst38'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst47'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst45'
+Slack : 0.026
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst52'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst59'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst33'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst40'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst54'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst25'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst31'
+Slack : 0.060
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst61'
+Slack : 0.071
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst64'
+Slack : 0.308
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_in'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst64'
+Slack : -1.000
+TNS   : -5.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst25'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst26'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst27'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst28'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst31'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst32'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst33'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst34'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst38'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst39'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst40'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst41'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst45'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst46'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst47'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst48'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst52'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst53'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst54'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst55'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst59'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst60'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst61'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst62'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst64'
+Slack : -0.031
+TNS   : -0.060
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst31'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst25'
+Slack : 0.216
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst33'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst40'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst54'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst52'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst59'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst45'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst61'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst48'
+Slack : 0.233
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst27'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst47'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_in'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst38'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst41'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst60'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst62'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst26'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst53'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst55'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst34'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst32'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst28'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst39'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisorfrequencia:inst1|inst46'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst62'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst46'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst27'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst39'
+Slack : -0.001
+TNS   : -0.001
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst28'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst34'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst32'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst26'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst53'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst55'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst41'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst60'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst38'
+Slack : 0.012
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst48'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst61'
+Slack : 0.026
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_in'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst45'
+Slack : 0.031
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst59'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst47'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst52'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst54'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst33'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst40'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst25'
+Slack : 0.044
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst31'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divisorfrequencia:inst1|inst64'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_in'
+Slack : -3.000
+TNS   : -4.092
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst64'
+Slack : -1.000
+TNS   : -5.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst25'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst26'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst27'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst28'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst31'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst32'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst33'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst34'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst38'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst39'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst40'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst41'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst45'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst46'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst47'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst48'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst52'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst53'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst54'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst55'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst59'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst60'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst61'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisorfrequencia:inst1|inst62'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
