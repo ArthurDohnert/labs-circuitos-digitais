@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CircuitosDigitais\neander2.0\trabalho-neander\simulation\qsim
+vNeander
+Z1 I:fJ[AGj>5lQSef`EPj9RF3
+Z2 V`[L8i=MaL]l]_8[5Oi6eL0
+Z3 dC:\CircuitosDigitais\neander2.0\trabalho-neander\simulation\qsim
+Z4 w1751888246
+Z5 8Neander.vo
+Z6 FNeander.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Neander.vo|
+Z9 o-work work -O0
+Z10 n@neander
+!i10b 1
+Z11 !s100 l_n]Ten37;f4YC8WRVXoQ1
+!s85 0
+Z12 !s108 1751888247.205000
+Z13 !s107 Neander.vo|
+!s101 -O0
+vNeander_vlg_check_tst
+!i10b 1
+Z14 !s100 kJAg1kXaeE;ZA]=eWoaa_3
+Z15 IMb5gnzboMmXAJOJK@DaQC1
+Z16 Vn2[=4OG_mc:mWSiIZ3A?e2
+R3
+Z17 w1751888244
+Z18 8Neander.vt
+Z19 FNeander.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z20 !s108 1751888247.329000
+Z21 !s107 Neander.vt|
+Z22 !s90 -work|work|Neander.vt|
+!s101 -O0
+R9
+Z23 n@neander_vlg_check_tst
+vNeander_vlg_sample_tst
+!i10b 1
+Z24 !s100 >gA_S2zKB?T4gemokV9?k2
+Z25 I0J3THBUg5h3[CN67cZbCY1
+Z26 V9PFRU[MMUSF2mF@`XoBTO1
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@neander_vlg_sample_tst
+vNeander_vlg_vec_tst
+!i10b 1
+Z28 !s100 TUUcYmJ_j8^ZnJc8[Gn`h3
+Z29 ISA^O2n]_:YWW<KLaN29Sb1
+Z30 VnO]aZBH^8_>Y97Xz@LWWK3
+R3
+R17
+R18
+R19
+Z31 L0 378
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@neander_vlg_vec_tst
